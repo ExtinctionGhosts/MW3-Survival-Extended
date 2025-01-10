@@ -147,3 +147,5 @@ Airsupport armory unlocks at wave 5
 - Riot Shield enemies sometimes can have minor animation bugs.
 - Hyenas have dog sounds and have the same stats as dogs.
 - there might be some errors in the console.
+-----------------------------------------------------------------------------------------------------------------------
+If you want to contribute to the mod, feel free to do so!
